@@ -4648,7 +4648,7 @@ p.frameBounds = [rect, new cjs.Rectangle(-55.1,-55.1,110.5,112.8), new cjs.Recta
 				infinity = 100;
 				infGain = 1;
 		
-				infPoints = 0;
+				infPoints = 1e200;
 		
 				infinited = false;
 				infinitedTimes = 0;
